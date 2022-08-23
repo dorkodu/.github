@@ -12,8 +12,8 @@
 
 # dorkodu
 
-we are the gamification company.
-our mission is to liberate the human with meaningful technology.
+we are the gamification company.<br>
+our mission is to liberate the human with meaningful technology.<br>
 we want to build the utopian heaven commonwealth on earth, for everyone.
 
 ### our work
