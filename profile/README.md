@@ -6,19 +6,17 @@
 </p>
 
 
-<p align="center">liberate the human ✌️🍃☮️</p>
+<p align="center" style="font-size: 500;">liberate the human ✌️🍃☮️</p>
 
 <br>
 
 # dorkodu
 
-dorkodu is the gamification company.
+we are the gamification company.
 our mission is to liberate the human with meaningful technology.
 we want to build the utopian heaven commonwealth on earth, for everyone.
 
-
-
-## our work
+### our work
 
 - &nbsp;🤩&nbsp; **trekie** — gamified digital life companion
 - &nbsp;🍃 &nbsp;**wander** — social knowledge
@@ -26,7 +24,7 @@ we want to build the utopian heaven commonwealth on earth, for everyone.
 
 ### people
 
-<table style="width: 500px;">
+<table style="width: 600px;">
   <tr>
     <td align="center">
       <a href="https://doruk.dorkodu.com">
@@ -61,7 +59,7 @@ we want to build the utopian heaven commonwealth on earth, for everyone.
       <br>
       <b style="font-size: 1.15rem; font-weight: 500;">the technologist</b>
 			<br>
-      <span>product polymath, craftsman, lunatic.</span>
+      <span>software, open source, meme-lord.</span>
 			<br>
       <a href="https://github.com/dorukeray">
       	<img alt="GitHub followers" src="https://img.shields.io/github/followers/berkcambaz?label=%40berkcambaz&style=social">
@@ -72,15 +70,3 @@ we want to build the utopian heaven commonwealth on earth, for everyone.
     </td>
   </tr>
 </table>
-
-
-
-- ✅&nbsp; well-tested and production ready.
-- 🔐&nbsp; full static type safety & autocompletion on the client, for inputs, outputs and errors.
-- ❌&nbsp; no query language, schema, code generation, run-time bloat, or build pipeline.
-- 🍃&nbsp; light – sage has zero dependencies and a tiny client-side footprint.
-- 🔗&nbsp; work with relational, graph-like data simply.
-- 🔋&nbsp; batteries included – reference implementations in javascript.
-- 🗽&nbsp; liberating developer experience.
-- ⏳&nbsp; fast, thanks to sophisticated simplicity :)
-- 📨 infinite resources with one request.
