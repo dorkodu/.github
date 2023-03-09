@@ -1,28 +1,29 @@
 <p align="center">
   <a href="https://dorkodu.com">
-      <img alt="dorkodu" src="https://raw.githubusercontent.com/dorukeray/artwork/main/Branding%20%26%20Logo%20Designs/Dorkodu/dorkodu-M.png"
+      <img alt="dorkodu" src="https://raw.githubusercontent.com/dorukeray/artwork/main/Branding%20%26%20Logo%20Designs/Dorkodu/dorkodu.svg"
       style="height: 125px !important; margin: 5px auto !important;" />
   </a>
 </p>
 
 
-<p align="center" style="font-size: 500;">liberate the human ✌️🍃☮️</p>
+<p align="center" style="font-size: 500;">Liberate The Humankind.</p>
 
 <br>
 
-# dorkodu
+# DORKODU
 
-we are the gamification company.<br>
-our mission is to liberate the human with meaningful technology.<br>
-we want to build the utopian heaven commonwealth on earth, for everyone.
+We are your dream fulfillment technology company.<br>
+Our mission is to liberate the human with meaningful technology.<br>
+We want to build the utopian heaven commonwealth on earth, for everyone.
 
-### our work
+### OUR WORK
 
-- &nbsp;🤩&nbsp; **trekie** — gamified digital life companion
-- &nbsp;🍃 &nbsp;**wander** — social knowledge
-- &nbsp;🏛️ &nbsp;**libre** — open source
 
-### people
+- &nbsp;🍃 &nbsp;**Wander** — Digital Mind Garden.
+- &nbsp;🤩&nbsp; **Trekie** — Social & Gamified Life Growth Companion. 
+- &nbsp;🏛️ &nbsp;**Forum** —  Public Discourse.
+
+### PEOPLE
 
 <table style="width: 600px;">
   <tr>
@@ -33,11 +34,11 @@ we want to build the utopian heaven commonwealth on earth, for everyone.
       </a>
     </td>
     <td>
-			<b style="font-size: 1.5rem; font-weight: 800;">doruk eray</b>
+			<b style="font-size: 1.5rem; font-weight: 800;">Doruk Eray</b>
       <br>
-      <b style="font-size: 1.15rem; font-weight: 500;">founder & chief</b>
+      <b style="font-size: 1.15rem; font-weight: 500;">Founder & Chief</b>
 			<br>
-      <span>product polymath, craftsman, lunatic.</span>
+      <span>Product Polymath, Craftsman, Lunatic.</span>
 			<br>
       <a href="https://github.com/dorukeray">
       	<img alt="GitHub followers" src="https://img.shields.io/github/followers/dorukeray?label=%40dorukeray&style=social">
@@ -55,11 +56,11 @@ we want to build the utopian heaven commonwealth on earth, for everyone.
       </a>
     </td>
     <td>
-			<b style="font-size: 1.5rem; font-weight: 800;">berk cambaz</b>
+			<b style="font-size: 1.5rem; font-weight: 800;">Berk Cambaz</b>
       <br>
-      <b style="font-size: 1.15rem; font-weight: 500;">the technologist</b>
+      <b style="font-size: 1.15rem; font-weight: 500;">The Technologist</b>
 			<br>
-      <span>software, open source, meme-lord.</span>
+      <span>Software, Infrastructure, Open Source.</span>
 			<br>
       <a href="https://github.com/dorukeray">
       	<img alt="GitHub followers" src="https://img.shields.io/github/followers/berkcambaz?label=%40berkcambaz&style=social">
