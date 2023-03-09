@@ -10,20 +10,20 @@
 
 <br>
 
-# DORKODU
+# Dorkodu
 
 We are your dream fulfillment technology company.<br>
 Our mission is to liberate the human with meaningful technology.<br>
 We want to build the utopian heaven commonwealth on earth, for everyone.
 
-### OUR WORK
+### Our Work
 
 
 - &nbsp;🍃 &nbsp;**Wander** — Digital Mind Garden.
 - &nbsp;🤩&nbsp; **Trekie** — Social & Gamified Life Growth Companion. 
 - &nbsp;🏛️ &nbsp;**Forum** —  Public Discourse.
 
-### PEOPLE
+### People
 
 <table style="width: 600px;">
   <tr>
