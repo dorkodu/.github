@@ -1,27 +1,29 @@
 <p align="center">
   <a href="https://dorkodu.com">
-      <img alt="dorkodu" src="https://raw.githubusercontent.com/dorukeray/artwork/main/Branding%20%26%20Logo%20Designs/Dorkodu/dorkodu.svg"
+      <img alt="dorkodu" src="https://dorkodu.com/images/dorkodu_Logo_Colorful.svg"
       style="height: 125px !important; margin: 5px auto !important;" />
   </a>
 </p>
 
 
-<p align="center" style="font-size: 500;">Liberate The Humankind.</p>
+<p align="center" style="font-size: 500; font-weight: 500;">Life Gamification Company.</p>
 
 <br>
 
 # Dorkodu
 
 We are your dream fulfillment technology company.<br>
-Our mission is to liberate the human with meaningful technology.<br>
-We want to build the utopian heaven commonwealth on earth, for everyone.
+Bringing humane spirit back to technology. Let's liberate the humankind, together.<br>
+We create apps for gamification + productivity and build technology for decentralized web.
 
-### Our Work
+### Projects
 
 
-- &nbsp;🍃 &nbsp;**Wander** — Digital Mind Garden.
-- &nbsp;🤩&nbsp; **Trekie** — Social & Gamified Life Growth Companion. 
-- &nbsp;🏛️ &nbsp;**Forum** —  Public Discourse.
+- &nbsp;🤩&nbsp; **Trekie** — Social & Gamified Productivity Companion.
+- &nbsp;🍃&nbsp;**Wander** — Decentralized Knowledge Protocol/SDK
+- &nbsp;🎮&nbsp;**Crewlands** — A Minimalist Grand Strategy Game
+- &nbsp;🔮&nbsp;**Sage** — Marvelous Data Exchange For APIs
+
 
 ### People
 
@@ -38,7 +40,7 @@ We want to build the utopian heaven commonwealth on earth, for everyone.
       <br>
       <b style="font-size: 1.15rem; font-weight: 500;">Founder & Chief</b>
 			<br>
-      <span>Product Polymath, Craftsman, Lunatic.</span>
+      <span>Polymath, Craftsman, Lunatic.</span>
 			<br>
       <a href="https://github.com/dorukeray">
       	<img alt="GitHub followers" src="https://img.shields.io/github/followers/dorukeray?label=%40dorukeray&style=social">
