@@ -19,7 +19,7 @@ We create apps for gamification + productivity and build technology for decentra
 ### Projects
 
 
-- &nbsp;🤩&nbsp; **Trekie** — Social & Gamified Productivity Companion.
+- &nbsp;🤩&nbsp;**Trekie** — Social & Gamified Productivity Companion.
 - &nbsp;🍃&nbsp;**Wander** — Decentralized Knowledge Protocol/SDK
 - &nbsp;🎮&nbsp;**Crewlands** — A Minimalist Grand Strategy Game
 - &nbsp;🔮&nbsp;**Sage** — Marvelous Data Exchange For APIs
