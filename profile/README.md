@@ -1,12 +1,11 @@
 <p align="center">
   <a href="https://dorkodu.com">
       <img alt="dorkodu" src="https://dorkodu.com/images/dorkodu_Logo_Colorful.svg"
-      style="height: 125px !important; margin: 5px auto !important;" />
+      style="height: 100px !important; margin: 5px auto !important;" />
   </a>
 </p>
 
-
-<p align="center" style="font-size: 500; font-weight: 500;">Life Gamification Company.</p>
+<p align="center" style="font-size: 500; font-weight: 500;"> ⪨ Life Gamification Company ⪩ </p>
 
 <br>
 
@@ -19,7 +18,7 @@ We create apps for gamification + productivity and build technology for decentra
 ### Projects
 
 
-- &nbsp;🤩&nbsp;**Trekie** — Social & Gamified Productivity Companion.
+- &nbsp;🤩&nbsp;**Trekie** — Social & Gamified Productivity Companion
 - &nbsp;🍃&nbsp;**Wander** — Decentralized Knowledge Protocol/SDK
 - &nbsp;🎮&nbsp;**Crewlands** — A Minimalist Grand Strategy Game
 - &nbsp;🔮&nbsp;**Sage** — Marvelous Data Exchange For APIs
