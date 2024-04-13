@@ -11,7 +11,7 @@
 
 # Dorkodu
 
-We are your dream fulfillment technology company.<br>
+We are a dream fulfillment company.<br>
 Bringing humane spirit back to technology. Let's liberate the humankind, together.<br>
 We create apps for gamification + productivity and build technology for decentralized web.
 
