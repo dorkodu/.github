@@ -18,6 +18,7 @@ We create gamified apps on productivity supercharged with AI and build open sour
 ### Projects
 
 - &nbsp;🤩&nbsp;**[Trekie](https://trekie.io)** — Gamified Life Dashboard & AI Productivity Companion
+- &nbsp;🗃️&nbsp;**[Mindcards](https://mind.dorkodu.com)** — Gamified Learning With Flashcards + AI
 - &nbsp;🍃&nbsp;**[Wander](https://github.com/dorkodu/wander)** — SDK for Decentralized and Local-first Apps (on Web3, Nostr, IPFS) 
 - &nbsp;🎮&nbsp;**[Crewlands](https://crewlands.com)** — A Minimalist Turn-based Strategy Game
 
