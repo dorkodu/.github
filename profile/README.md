@@ -11,17 +11,15 @@
 
 # Dorkodu
 
-We are a dream fulfillment company.<br>
-Bringing humane spirit back to technology. Let's liberate the humankind, together.<br>
-We create apps for gamification + productivity and build technology for decentralized web.
+We are the life gamification company.<br>
+Our mission is to bring humane spirit back to technology. Let's liberate the humankind, together!<br>
+We create gamified apps on productivity supercharged with AI and build open source technology for decentralized web.
 
 ### Projects
 
-
-- &nbsp;🤩&nbsp;**Trekie** — Social & Gamified Productivity Companion
-- &nbsp;🍃&nbsp;**Wander** — Decentralized Knowledge Protocol/SDK
-- &nbsp;🎮&nbsp;**Crewlands** — A Minimalist Grand Strategy Game
-- &nbsp;🔮&nbsp;**Sage** — Marvelous Data Exchange For APIs
+- &nbsp;🤩&nbsp;**Trekie** — Gamified Life Dashboard & AI Productivity Companion
+- &nbsp;🍃&nbsp;**Wander** — SDK for Decentralized Local-first Apps on Nostr & IPFS 
+- &nbsp;🎮&nbsp;**Crewlands** — A Minimalist Turn-based Strategy Game
 
 
 ### People
@@ -39,7 +37,7 @@ We create apps for gamification + productivity and build technology for decentra
       <br>
       <b style="font-size: 1.15rem; font-weight: 500;">Founder & Chief</b>
 			<br>
-      <span>Polymath, Craftsman, Lunatic.</span>
+      <span>Polymath, Software Craftsman, Designer.</span>
 			<br>
       <a href="https://github.com/dorukeray">
       	<img alt="GitHub followers" src="https://img.shields.io/github/followers/dorukeray?label=%40dorukeray&style=social">
