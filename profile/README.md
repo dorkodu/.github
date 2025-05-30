@@ -13,7 +13,7 @@
 
 We are the life gamification company.<br>
 Our mission is to bring humane spirit back to technology.<br>
-We build **1) life gamification 2) decentralized web 3) regenerative crypto 4) humane AI
+We build **life gamification on decentralized web, regenerative crypto, agentic AI.**
 
 ### Projects
 
@@ -60,7 +60,7 @@ We build **1) life gamification 2) decentralized web 3) regenerative crypto 4) h
       <span>Engineer, Cyberpunk, Swiss-knife.</span>
 			<br>
       <a href="https://github.com/afsin-asf">
-      	<img alt="GitHub followers" src="https://img.shields.io/github/followers/afsin-asf?label=%afsin-asf&style=social">
+      	<img alt="GitHub followers" src="https://img.shields.io/github/followers/afsin-asf?label=afsin-asf&style=social">
 			</a>
       <a href="https://twitter.com/afsin_asf">
 				<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/afsin_asf?style=social">
