@@ -16,8 +16,9 @@ Our mission is to bring humane spirit back to technology.<br>
 We build **gamified apps** on **decentralized web**, **regenerative crypto**, **agentic AI**.
 
 ### Projects
-<br>🌎✨ **[Wanderia](https://wanderia.xyz)** — Decentralized Superapp for Regenerative Communities
-<br>🤩🍀 **[Trekie](https://trekie.io)** — Gamified Life Dashboard & AI Productivity Companion
+🌎✨ **[Wanderia](https://wanderia.xyz)** — Decentralized Superapp for Regenerative Communities
+<br>
+🤩🍀 **[Trekie](https://trekie.io)** — Gamified Life Dashboard & AI Productivity Companion
 
 ### People
 
