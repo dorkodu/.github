@@ -17,7 +17,7 @@ We build **life gamification on decentralized web, regenerative crypto, agentic 
 
 ### Projects
 
-- &nbsp;🌎✨&nbsp;**[Wanderia](https://github.com/dorkodu/wanderia)** — Decentralized Superapp for Regenerative Communities
+- &nbsp;🌎✨&nbsp;**[Wanderia](https://wanderia.xyz)** — Decentralized Superapp for Regenerative Communities
 - &nbsp;🤩🍀&nbsp;**[Trekie](https://trekie.io)** — Gamified Life Dashboard & AI Productivity Companion
 
 ### People
