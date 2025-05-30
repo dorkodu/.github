@@ -13,7 +13,7 @@
 
 We are the life gamification company.<br>
 Our mission is to bring humane spirit back to technology.<br>
-We build **life gamification on decentralized web, regenerative crypto, agentic AI.**
+We build **gamified apps** on **decentralized web**, **regenerative crypto**, **agentic AI**.
 
 ### Projects
 
