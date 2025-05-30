@@ -18,7 +18,7 @@ We build **life gamification on decentralized web, regenerative crypto, agentic 
 ### Projects
 
 - &nbsp;🌎✨&nbsp;**[Wanderia](https://github.com/dorkodu/wanderia)** — Decentralized Superapp for Regenerative Communities
-- &nbsp;🤩&nbsp;**[Trekie](https://trekie.io)** — Gamified Life Dashboard & AI Productivity Companion
+- &nbsp;🤩🍀&nbsp;**[Trekie](https://trekie.io)** — Gamified Life Dashboard & AI Productivity Companion
 
 ### People
 
@@ -38,7 +38,7 @@ We build **life gamification on decentralized web, regenerative crypto, agentic 
       <span>Polymath, Software Craftsman, Designer.</span>
 			<br>
       <a href="https://github.com/dorukeray">
-      	<img alt="GitHub followers" src="https://img.shields.io/github/followers/dorukeray?label=%dorukeray&style=social">
+      	<img alt="GitHub followers" src="https://img.shields.io/github/followers/dorukeray?label=dorukeray&style=social">
 			</a>
       <a href="https://x.com/afsin_asf">
 				<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/d0rukeray?style=social">
